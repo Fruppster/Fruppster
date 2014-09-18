@@ -1,0 +1,14 @@
+Instructions
+
+Step 1: Place the folder where you want it to be installed
+
+Step 2: Run setup.exe
+
+Step 3: Complete the installation
+
+Step 4(Optional): 
+Right click 'Diablo 3 Damage Calculator' --> create a shortcut to
+where you want it
+
+Enjoy
+

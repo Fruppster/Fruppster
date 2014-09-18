@@ -1,0 +1,13 @@
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\Diablo 3 Damage Calculator.csprojResolveAssemblyReference.cache
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\D3_Effective_Damage_Calculator.Form1.resources
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\D3_Effective_Damage_Calculator.Properties.Resources.resources
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\Diablo 3 Damage Calculator.csproj.GenerateResource.Cache
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\bin\Debug\Diablo 3 Damage Calculator.exe.config
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\bin\Debug\Diablo 3 Damage Calculator.exe.manifest
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\bin\Debug\Diablo 3 Damage Calculator.application
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\bin\Debug\Diablo 3 Damage Calculator.exe
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\bin\Debug\Diablo 3 Damage Calculator.pdb
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\Diablo 3 Damage Calculator.exe.manifest
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\Diablo 3 Damage Calculator.application
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\Diablo 3 Damage Calculator.exe
+C:\Users\anton\Documents\Visual Studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\Diablo 3 Damage Calculator.pdb

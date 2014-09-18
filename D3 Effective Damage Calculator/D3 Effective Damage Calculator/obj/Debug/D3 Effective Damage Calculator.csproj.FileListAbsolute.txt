@@ -1,0 +1,13 @@
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\bin\Debug\D3 Effective Damage Calculator.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\bin\Debug\D3 Effective Damage Calculator.exe
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\bin\Debug\D3 Effective Damage Calculator.pdb
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\D3 Effective Damage Calculator.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\D3_Effective_Damage_Calculator.Form1.resources
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\D3_Effective_Damage_Calculator.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\D3 Effective Damage Calculator.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\D3 Effective Damage Calculator.exe
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\D3 Effective Damage Calculator.pdb
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\bin\Debug\D3 Effective Damage Calculator.exe.manifest
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\bin\Debug\D3 Effective Damage Calculator.application
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\D3 Effective Damage Calculator.exe.manifest
+c:\users\anton\documents\visual studio 2013\Projects\D3 Effective Damage Calculator\D3 Effective Damage Calculator\obj\Debug\D3 Effective Damage Calculator.application
