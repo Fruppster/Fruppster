@@ -4,26 +4,29 @@
 #include "Queue.h"
 using namespace std;
 
-Stack stack;
 Queue myQ;
 
 bool ParChecker(string s) {
+	Stack stack;
 	while (!s.empty())
 	{
-		switch (s.back)
+		switch (s.back())
 		{
-		case s.back==")":
+		case ')':
 			stack.Push("");
-			s.pop_back;
+			s.pop_back();
 			break;
-		case s.back == "(":
-			if (!stack.Empty())
-				stack.Pop();
-			else
+		case '(':
+			if (stack.Empty())
 				return false;
-			break;			
+			else
+			{
+				stack.Pop();
+				s.pop_back();
+				break;
+			}
 		default:
-			s.pop_back;
+			s.pop_back();
 			break;
 		}
 	}
@@ -31,5 +34,20 @@ bool ParChecker(string s) {
 		return true;
 }
 
+bool TagChecker(string s){
+	Stack stack;
+	while (!s.empty())
+	{
+		switch (s.back())
+		{
+		//case s.back()=='>':
+
+		default:
+			break;
+		}
+	}
+}
+
 void main() {
+
 }
