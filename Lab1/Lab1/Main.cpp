@@ -10,20 +10,20 @@ Queue myQ;
 bool ParChecker(string s) {
 	while (!s.empty())
 	{
-		switch (s.back)
+		switch (s.back())
 		{
-		case s.back==")":
+		case s.back()==')':
 			stack.Push("");
-			s.pop_back;
+			s.pop_back();
 			break;
-		case s.back == "(":
+		case s.back() == '(':
 			if (!stack.Empty())
 				stack.Pop();
 			else
 				return false;
 			break;			
 		default:
-			s.pop_back;
+			s.pop_back();
 			break;
 		}
 	}
